@@ -1,10 +1,8 @@
 # nlp-assignment3
 
-句首句尾
-
-POS tagging
-
-NER
+* 句首句尾
+* POS tagging
+* NER
 
 ##Column:
 * 詞性(例如:動詞、名詞)
