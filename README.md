@@ -21,5 +21,5 @@
 * http://hjdai.blogspot.tw/2006/12/howto-use-crf.html
 
 ##issue:
-* what is O mean ??
-* 是否能直接使用網路上提供的POS tag?
+~~* what is O mean ??~~
+~~* 是否能直接使用網路上提供的POS tag?~~
