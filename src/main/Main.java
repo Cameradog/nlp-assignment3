@@ -1,8 +1,8 @@
 package main;
 
 import common.Constant;
-
 import data.Field;
+import data.FieldService;
 import feature.ExampleFeature;
 import fileService.FileInput;
 /**
@@ -48,7 +48,12 @@ public class Main {
 		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
 			Field wordField = Constant.ALLDATAS.get(i);
 			
-			//prevent new line
+			//to set count to give nextField/prevField enough information to work 
+			FieldService.getServ().setCurTokenCount(i);
+			
+			//FieldService.getServ().getCurTokenCount();
+			
+			//prevent new line with all white space
 			if(!wordField.isNewLine){
 				ef.setWord(wordField.word);
 				ef.execute();
@@ -74,7 +79,7 @@ public class Main {
 			example = Constant.ALLDATAS.get(i).Example;
 			//ner
 			//captial
-			System.out.println(word +" " + example);
+			//System.out.println(word +" " + example);
 		}
 	}	
 }

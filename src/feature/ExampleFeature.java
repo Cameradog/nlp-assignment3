@@ -12,7 +12,6 @@ public class ExampleFeature extends Feature{
 	//finally assign feature to the variable
 	public void execute(){
 		//just an example
-		
 		//FieldService.getServ().nextField();
 		if(!word.equals("")){
 			feature = ExampleEnum.adfasd;

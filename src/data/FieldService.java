@@ -40,7 +40,7 @@ public class FieldService {
 		this.curTokenCount = count;
 	}
 
-	public int getCurTokenCount(int count) {
+	public int getCurTokenCount() {
 		return curTokenCount;
 	}
 
