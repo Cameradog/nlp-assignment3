@@ -3,6 +3,7 @@ package main;
 import common.Constant;
 import data.Field;
 import data.FieldService;
+import feature.Capitalize_feature;
 import feature.ExampleFeature;
 import fileService.FileInput;
 /**
@@ -40,10 +41,13 @@ public class Main {
 	}
 	
 	public void training(){
-		ExampleFeature ef = new ExampleFeature();
+		//ExampleFeature ef = new ExampleFeature();
+		Capitalize_feature cf = new Capitalize_feature();
 		//add new instance like above example
 		
-		String newExampleFeature;
+		//String newExampleFeature;
+		String CapitalizeFeature;
+		
 		//for all the words
 		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
 			Field wordField = Constant.ALLDATAS.get(i);
@@ -55,12 +59,12 @@ public class Main {
 			
 			//prevent new line with all white space
 			if(!wordField.isNewLine){
-				ef.setWord(wordField.word);
-				ef.execute();
-				newExampleFeature =ef.getFeature().toString();
+				cf.setWord(wordField.word);
+				cf.execute();
+				CapitalizeFeature = cf.getFeature().toString();
 				
 				//setWord and getFeature to get your features
-				Constant.ALLDATAS.get(i).Example = newExampleFeature;
+				Constant.ALLDATAS.get(i).Capitalize = CapitalizeFeature;
 			} else {
 				
 			}
@@ -71,15 +75,16 @@ public class Main {
 	//use this function to temporary result
 	public void resultPrint(){	
 		String word;
-		String example;
+		//String example;
 		//String ner;
-		//String captial;
+		String capital;
 		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
 			word = Constant.ALLDATAS.get(i).word;
-			example = Constant.ALLDATAS.get(i).Example;
+			//example = Constant.ALLDATAS.get(i).Example;
+			capital = Constant.ALLDATAS.get(i).Capitalize;
 			//ner
 			//captial
-			//System.out.println(word +" " + example);
+			System.out.println(word +" " + capital);
 		}
 	}	
 }
