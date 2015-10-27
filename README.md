@@ -11,7 +11,7 @@
 
 ###10/27
 * cfr++ training,develope template, report
-* template自動化(option)
+* template自動化(optional)
 * 介系詞, s, es, ed, ied, ing, ly, ,ion, er, ?(問句), :(分類電話地址傳真時間), /(日期)
 
 
@@ -49,6 +49,7 @@
 
 ##Reference:
 * http://hjdai.blogspot.tw/2006/12/howto-use-crf.html
+* http://nlp.stanford.edu/software/tagger.shtml#Questions
 
 ##issue:
 * ~~what is O mean ??~~
