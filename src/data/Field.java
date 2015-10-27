@@ -10,6 +10,7 @@ public class Field {
 	public String NER;
 	public String Example;
 	public String Capitalize = null;
+	public String PosTag;
 	 	
 	public boolean isNewLine;
 }
