@@ -90,7 +90,7 @@ public class Main {
 		//String example;
 		//String ner;
 		String capital;
-		String Ptag;
+		String Ptag;		
 		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
 			word = Constant.ALLDATAS.get(i).word;
 			//example = Constant.ALLDATAS.get(i).Example;
@@ -98,7 +98,7 @@ public class Main {
 			Ptag = Constant.ALLDATAS.get(i).PosTag;
 			//ner
 			//captial
-			System.out.println(word +" " + capital+"         "+Ptag);
+			System.out.println(word +" / " + capital+" / "+Ptag);
 		}
 	}	
 }
