@@ -5,9 +5,9 @@ import java.util.regex.Pattern;
 public class Capitalize_feature extends Feature {
 	public void execute(){
 		//FieldService.getServ().nextField();
-		String aa = "^([a-z]+.)$";
-		String AA = "^([A-Z]+.)$";
-		String Aa = "^([A-Z]{1}[a-z]+.)$";
+		String aa = "^([(]?)([a-z]+.)$";
+		String AA = "^([(]?)([A-Z]+.)$";
+		String Aa = "^([(]?)([A-Z]{1}[a-z]+.)$";
 		String AaAa = "^(([A-Z]{1}[a-z]+)+.)$";
 		String num = "^(.*[0-9]+.*)$";
 		String character = "^([^\\w\\s]+)$";
@@ -26,6 +26,6 @@ public class Capitalize_feature extends Feature {
 			 feature = Capitalize_Enum.character;
 		 } else {
 			 feature = Capitalize_Enum.No_match;
-		 } 
+		 }
 	}
 }
