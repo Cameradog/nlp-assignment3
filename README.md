@@ -1,10 +1,19 @@
 # nlp-assignment3
 
 ##work division
-* 大小寫、研究template
-* standford POS tagging
+
+###10/25
+* 大小寫 --finish
+* 研究template
+* standford POS tagging --finish
 * 大小寫+bigram＋trigram
-* main frame
+* main frame --structure is ready, need to refine
+
+###10/27
+* cfr++ training,develope template, report
+* template自動化(option)
+* 介系詞, s, es, ed, ied, ing, ly, ,ion, er, ?(問句), :(分類電話地址傳真時間), /(日期)
+
 
 ##Column:
 * ~~詞性(例如:動詞、名詞)~~
@@ -22,6 +31,21 @@
 	* AaAa 特殊單字，兩個大寫開頭的字組合
 	* num 數字
 	* character 符號
+3. 第三種close track
+	* 介系詞
+	* s
+	* es
+	* ed
+	* ied
+	* ing
+	* ly
+	* ion
+	* er
+	* ? (問句)
+	* : (分類電話地址傳真時間)
+	* / (日期)
+
+
 
 ##Reference:
 * http://hjdai.blogspot.tw/2006/12/howto-use-crf.html
