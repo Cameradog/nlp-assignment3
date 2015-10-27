@@ -2,7 +2,7 @@
 
 ##work division
 
-###10/25
+###10/25,26
 * 大小寫 --finish
 * 研究template
 * standford POS tagging --finish
