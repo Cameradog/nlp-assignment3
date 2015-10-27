@@ -5,7 +5,7 @@ public enum Capitalize_Enum {
 	Aa,
 	AA,
 	AaAa,
-	c,
-	n,
+	character,
+	num,
 	No_match;	
 }
