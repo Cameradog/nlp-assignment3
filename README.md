@@ -16,12 +16,12 @@
 ##feature
 1. 大小寫
 2. the + capitalize words
-* aa 全部小寫
-* AA 全部大寫
-* Aa 大寫開頭
-* AaAa 特殊單字，兩個大寫開頭的字組合
-* num 數字
-* character 符號
+	* aa 全部小寫
+	* AA 全部大寫
+	* Aa 大寫開頭
+	* AaAa 特殊單字，兩個大寫開頭的字組合
+	* num 數字
+	* character 符號
 
 ##Reference:
 * http://hjdai.blogspot.tw/2006/12/howto-use-crf.html
