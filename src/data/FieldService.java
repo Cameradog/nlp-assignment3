@@ -24,13 +24,20 @@ public class FieldService {
 	public void createField(String text) {
 		// add field
 		Field curField = new Field();
-		
+
 		if (!text.equals("")) {
 			String[] fields = text.split("\\s+");
-			
-			curField.word = fields[0];
-			curField.NER = fields[1];
-		} else{
+
+			// HARD CODE
+			// for train.txt
+			if (fields.length == 1) {
+				curField.word = fields[0];
+			} else if (fields.length == 2) {
+				curField.word = fields[0];
+				curField.NER = fields[1];
+			}
+
+		} else {
 			curField.isNewLine = true;
 		}
 		Constant.ALLDATAS.add(curField);
@@ -62,5 +69,44 @@ public class FieldService {
 		} else {
 			throw new Exception("UnderFlow occur");
 		}
+	}
+
+	public String getFieldValue(Field field){
+		String result="";
+		String[] fields = Constant.OUTPUTFIELDS;
+
+		//prevent extra white space
+		switch (fields[0]) {
+			case "word": 
+				result += field.word;
+				break;
+			case "NER":
+				result += field.NER;
+				break;
+			case "Capitalize":
+				result += field.Capitalize;
+				break;
+			case "PosTag":
+				result += field.PosTag;
+				break;
+		}
+		
+		for(int i = 1 ; i < fields.length ; i++){
+			switch (fields[i]) {
+			case "word": 
+				result += " "+field.word;
+				break;
+			case "NER":
+				result += " "+field.NER;
+				break;
+			case "Capitalize":
+				result += " "+field.Capitalize;
+				break;
+			case "PosTag":
+				result += " "+field.PosTag;
+				break;
+			}
+		}
+		return result;
 	}
 }

@@ -14,4 +14,27 @@ public class DebugMessage {
 			System.out.println("Count is :" + count);
 		}
 	}
+	
+	public static void printFileName(String name){
+		if(isDebugMode){
+			System.out.println("File name is :" + name );		
+		}
+	}
+	
+	public static void resultPrint(){	
+		String word;
+		//String example;
+		//String ner;
+		String capital;
+		String Ptag;		
+		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
+			word = Constant.ALLDATAS.get(i).word;
+			//example = Constant.ALLDATAS.get(i).Example;
+			capital = Constant.ALLDATAS.get(i).Capitalize;
+			Ptag = Constant.ALLDATAS.get(i).PosTag;
+			//ner
+			//captial
+			System.out.println(word +" / " + capital+" / "+Ptag);
+		}
+	}
 }

@@ -1,15 +1,16 @@
 package main;
 
 import common.Constant;
+import common.DebugMessage;
 import data.Field;
 import data.FieldService;
 import feature.Capitalize_feature;
 import feature.ExampleFeature;
 import feature.PosTag_feature;
 import fileService.FileInput;
+import fileService.FileOutput;
 /**
  * 
- * @author john821216
  *	you are able to add Exception in Exception.java
  *  and using Exception.functionname to call it
  *  
@@ -21,6 +22,8 @@ import fileService.FileInput;
  */
 public class Main {
 	FileInput fileInput;
+	FileOutput fileOutput;
+	
 	//starter
 	public static void main(String[] args){
 		new Main().execute();
@@ -29,12 +32,14 @@ public class Main {
 	
 	public Main(){
 		fileInput = new FileInput();
+		fileOutput= new FileOutput();
 	}
 	
 	public void execute(){
 		readFile();
 		training();
-		resultPrint();
+		DebugMessage.resultPrint();
+		writeFile();
 	}
 	
 	public void readFile(){
@@ -45,10 +50,7 @@ public class Main {
 		//ExampleFeature ef = new ExampleFeature();
 		Capitalize_feature cf = new Capitalize_feature();
 		PosTag_feature pf = new PosTag_feature();
-		//add new instance like above example
 		
-		
-		//String newExampleFeature;
 		String CapitalizeFeature;
 		String PostagFeature;
 		
@@ -83,22 +85,7 @@ public class Main {
 		}
 	}
 	
-	//now you cannot output your result to txt
-	//use this function to temporary result
-	public void resultPrint(){	
-		String word;
-		//String example;
-		//String ner;
-		String capital;
-		String Ptag;		
-		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
-			word = Constant.ALLDATAS.get(i).word;
-			//example = Constant.ALLDATAS.get(i).Example;
-			capital = Constant.ALLDATAS.get(i).Capitalize;
-			Ptag = Constant.ALLDATAS.get(i).PosTag;
-			//ner
-			//captial
-			System.out.println(word +" / " + capital+" / "+Ptag);
-		}
-	}	
+	public void writeFile(){
+		fileOutput.writeFile();
+	}
 }

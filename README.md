@@ -9,6 +9,9 @@
 * 大小寫+bigram＋trigram
 * main frame --structure is ready, need to refine
 
+###10/26
+* 請從Constant.java中修改參數,調整output的格式,可以選擇是否要印出空白行.同時輸出欄位的順序也是可以調整的
+
 ###10/27
 * cfr++ training,develope template, report
 * template自動化(optional)
@@ -21,6 +24,7 @@
 * 大小寫
 * 大小寫+bigram＋trigram
 * standford POS tagging
+
 
 ##feature
 1. 大小寫
