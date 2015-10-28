@@ -11,6 +11,7 @@ public class Field {
 	public String Example;
 	public String Capitalize = null;
 	public String PosTag;
+	public String Prep;
 	 	
 	public boolean isNewLine;
 }

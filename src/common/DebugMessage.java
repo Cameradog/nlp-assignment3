@@ -26,15 +26,17 @@ public class DebugMessage {
 		//String example;
 		//String ner;
 		String capital;
-		String Ptag;		
+		String Ptag;	
+		String Prep;
 		for(int i = 0 ; i < Constant.ALLDATAS.size() ; i++){
 			word = Constant.ALLDATAS.get(i).word;
 			//example = Constant.ALLDATAS.get(i).Example;
 			capital = Constant.ALLDATAS.get(i).Capitalize;
 			Ptag = Constant.ALLDATAS.get(i).PosTag;
+			Prep = Constant.ALLDATAS.get(i).Prep;
 			//ner
 			//captial
-			System.out.println(word +" / " + capital+" / "+Ptag);
+			System.out.println(word +" / " + capital+" / "+Ptag +" / "+ Prep);
 		}
 	}
 }

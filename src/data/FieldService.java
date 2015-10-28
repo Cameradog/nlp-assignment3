@@ -89,6 +89,9 @@ public class FieldService {
 			case "PosTag":
 				result += field.PosTag;
 				break;
+			case "Prep":
+				result += field.Prep;
+				break;
 		}
 		
 		for(int i = 1 ; i < fields.length ; i++){
@@ -104,6 +107,9 @@ public class FieldService {
 				break;
 			case "PosTag":
 				result += "\t"+field.PosTag;
+				break;
+			case "Prep":
+				result += field.Prep;
 				break;
 			}
 		}
