@@ -4,12 +4,14 @@
 * 請從Constant.java中修改參數,調整output的格式,可以選擇是否要印出空白行.同時輸出欄位的順序也是可以調整的
 	* 需輸出training文檔
 		* Main.java中的readFile 將輸入的file改成train_en.txt
+
 				```
 				public void readFile(){
 					fileInput.readFile("train_en.txt");
 				}
 				```
 		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag
+
 				```
 				public static final String[] OUTPUTFIELDS= {
 					"word", "Capitalize" , "PosTag"
@@ -17,12 +19,14 @@
 				```
 	* 需輸出test文檔
 		* Main.java中的readFile 將輸入的file改成test_en.txt
+
 				```
 				public void readFile(){
 					fileInput.readFile("test_en.txt");
 				}
 				```
 		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag,NER
+		
 				```
 				public static final String[] OUTPUTFIELDS= {
 					"word", "Capitalize" , "PosTag" , "NER"
