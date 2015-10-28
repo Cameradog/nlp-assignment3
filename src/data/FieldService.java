@@ -94,16 +94,16 @@ public class FieldService {
 		for(int i = 1 ; i < fields.length ; i++){
 			switch (fields[i]) {
 			case "word": 
-				result += " "+field.word;
+				result += "\t"+field.word;
 				break;
 			case "NER":
-				result += " "+field.NER;
+				result += "\t"+field.NER;
 				break;
 			case "Capitalize":
-				result += " "+field.Capitalize;
+				result += "\t"+field.Capitalize;
 				break;
 			case "PosTag":
-				result += " "+field.PosTag;
+				result += "\t"+field.PosTag;
 				break;
 			}
 		}

@@ -41,7 +41,7 @@ public class FileOutput {
 					out.println(FieldService.getServ().getFieldValue(curField));
 				}				
 			}
-			
+			out.println();
 			out.close();
 			
 		} catch (IOException e) {

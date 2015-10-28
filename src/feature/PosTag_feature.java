@@ -11,7 +11,7 @@ public class PosTag_feature extends Feature{
 	
 	public void execute(){
 		String tag[];
-		tag = tagger.tagTokenizedString(word).split("_");
+		tag = tagger.tagTokenizedString(word).split("_| ");
 		posTag = tag[1];
 	}
 	
