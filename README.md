@@ -14,7 +14,7 @@
 
 				```
 				public static final String[] OUTPUTFIELDS= {
-					"word", "Capitalize" , "PosTag"
+					"word", "Capitalize" , "PosTag" , "NER"
 				};
 				```
 	* 需輸出test文檔
@@ -26,10 +26,10 @@
 				}
 				```
 		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag,NER
-		
+
 				```
 				public static final String[] OUTPUTFIELDS= {
-					"word", "Capitalize" , "PosTag" , "NER"
+					"word", "Capitalize" , "PosTag"
 				};
 				```
 
