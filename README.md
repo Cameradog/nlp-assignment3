@@ -1,5 +1,12 @@
 # nlp-assignment3
 
+## template
+* word範圍在-3 and 3 之間
+* 有無bigram
+* unigram 跟 bigram 的差異
+* feature有無的差異
+* 大文檔測試
+
 ##training & testing files producing guide
 * 請從Constant.java中修改參數,調整output的格式,可以選擇是否要印出空白行.同時輸出欄位的順序也是可以調整的
 	* 需輸出training文檔
