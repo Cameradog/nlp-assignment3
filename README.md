@@ -18,11 +18,11 @@
 					fileInput.readFile("train_en.txt");
 				}
 				```
-		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag
+		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag,Prep,NER
 
 				```
 				public static final String[] OUTPUTFIELDS= {
-					"word", "Capitalize" , "PosTag" , "NER"
+					"word", "Capitalize" , "PosTag" , "Prep" , "NER"
 				};
 				```
 	* 需輸出test文檔
@@ -33,11 +33,11 @@
 					fileInput.readFile("test_en.txt");
 				}
 				```
-		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag,NER
+		* Constant.java中的OUTPUTFIELD 改成Word,Capitalize,PosTag,Prep
 
 				```
 				public static final String[] OUTPUTFIELDS= {
-					"word", "Capitalize" , "PosTag"
+					"word", "Capitalize" , "PosTag" , "Prep"
 				};
 				```
 

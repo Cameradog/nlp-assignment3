@@ -9,7 +9,7 @@ public class Constant {
 	public static ArrayList<Field> ALLDATAS = new ArrayList<Field>();
 	
 	public static final String[] OUTPUTFIELDS= {
-		"word", "Capitalize" , "PosTag" ,"Prep", "NER"
+		"word", "Capitalize" , "PosTag" , "Prep" , "NER"
 	};
 	
 	//FOR THE LINE WHICH CONTAINS ALL WHITESPACE
