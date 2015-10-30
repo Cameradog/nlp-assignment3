@@ -39,7 +39,7 @@ public class Main {
 	public void execute(){
 		readFile();
 		training();
-		DebugMessage.resultPrint();
+		//DebugMessage.resultPrint();
 		writeFile();
 	}
 	

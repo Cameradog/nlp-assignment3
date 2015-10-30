@@ -36,7 +36,7 @@ public class DebugMessage {
 			Prep = Constant.ALLDATAS.get(i).Prep;
 			//ner
 			//captial
-			System.out.println(word +" / " + capital+" / "+Ptag +" / "+ Prep);
+			System.out.println(word +" / " + Prep);
 		}
 	}
 }

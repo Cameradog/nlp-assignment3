@@ -109,7 +109,7 @@ public class FieldService {
 				result += "\t"+field.PosTag;
 				break;
 			case "Prep":
-				result += field.Prep;
+				result += "\t"+field.Prep;
 				break;
 			}
 		}
