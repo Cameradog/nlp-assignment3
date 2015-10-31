@@ -1,1223 +1,1223 @@
-Mary	Aa	NNP
-A.	AA	NN
-Overby	Aa	NNP
-mao@ibiblio.org	No_match	NN
-I	No_match	PRP
-work	aa	NN
-as	aa	IN
-computer	aa	NN
-consultant	aa	NN
-in	aa	IN
-Chapel	Aa	NN
-Hill	Aa	NNP
-,	character	,
-North	Aa	NNP
-Carolina	Aa	NNP
-.	character	.
-Previously,	Aa	NN
-I	No_match	PRP
-worked	aa	VBD
-for	aa	IN
-webslingerZ,	No_match	NN
-Inc.	Aa	NNP
-and	aa	CC
-the	aa	DT
-University	Aa	NNP
-of	aa	IN
-North	Aa	NNP
-Carolina	Aa	NNP
-at	aa	IN
-Chapel	Aa	NN
-Hill	Aa	NNP
-doing	aa	VBG
-project	aa	NN
-management,	aa	NN
-database	aa	NN
-development	aa	NN
-and	aa	CC
-computer	aa	NN
-programming.	aa	NN
-I've	No_match	NN
-been	aa	VBN
-publishing	aa	NN
-and	aa	CC
-developing	aa	VBG
-database	aa	NN
-applications	aa	NNS
-on	aa	IN
-the	aa	DT
-web	aa	NN
-since	aa	IN
-February	Aa	NNP
-1994.	num	CD
-I	No_match	PRP
-play	aa	NN
-drums	aa	NNS
-for	aa	IN
-fun,	aa	NN
-mostly	aa	RB
-Afro-Cuban	No_match	JJ
-and	aa	CC
-West	Aa	NNP
-African	Aa	NNP
-rhythms.	aa	NN
-I	No_match	PRP
-have	aa	VB
-studied	aa	VBN
-with	aa	IN
-Beverly	Aa	NNP
-Botsford	Aa	NNP
-,	character	,
-Khalid	Aa	NNP
-Saleem	Aa	NNP
-,	character	,
-Bradley	Aa	NNP
-Simmons	Aa	NNP
-and	aa	CC
-Mamady	Aa	NNP
-Keita	Aa	NNP
-.	character	.
-I	No_match	PRP
-traveled	aa	VBN
-to	aa	TO
-Cuba	Aa	NNP
-to	aa	TO
-study	aa	NN
-rumba	aa	NN
-with	aa	IN
-Los	Aa	NNP
-Munequitos	Aa	NNP
-de	aa	IN
-Matanzas	Aa	NNP
-in	aa	IN
-1994	num	CD
-and	aa	CC
-with	aa	IN
-AfroCuba	AaAa	NNP
-de	aa	IN
-Matanzas	Aa	NNP
-in	aa	IN
-2001.	num	CD
-In	AA	IN
-2004,	num	CD
-I	No_match	PRP
-spent	aa	VBN
-a	No_match	DT
-month	aa	NN
-in	aa	IN
-Salvador	Aa	NNP
-,	character	,
-Bahia	Aa	NNP
-,	character	,
-Brazil	Aa	NNP
-volunteering	aa	VBG
-with	aa	IN
-Cross	Aa	NN
-Cultural	Aa	JJ
-Solutions	Aa	NNPS
-and	aa	CC
-studying	aa	VBG
-Brazilian	Aa	JJ
-music.	aa	NN
-I	No_match	PRP
-play	aa	NN
-the	aa	DT
-tamborim	aa	NN
-in	aa	IN
-the	aa	DT
-Carolina	Aa	NNP
-Samba	Aa	NNP
-School	Aa	NNP
-directed	aa	VBN
-by	aa	IN
-Brazilian	Aa	JJ
-Eduardo	Aa	NNP
-DeSouza	AaAa	NNP
-.	character	.
-�	character	NN
-Cuba	Aa	NNP
-!	character	.
-was	aa	VBD
-one	aa	CD
-of	aa	IN
-the	aa	DT
-first	aa	RB
-websites	aa	NNS
-about	aa	IN
-Cuba	Aa	NNP
-,	character	,
-featuring	aa	VBG
-Cuban	Aa	NNP
-musicians;	aa	NN
-pictures	aa	NNS
-of	aa	IN
-Cuban	Aa	NNP
-people	aa	NNS
-and	aa	CC
-places;	aa	NN
-and	aa	CC
-links	aa	NNS
-to	aa	TO
-other	aa	JJ
-information	aa	NN
-about	aa	IN
-Cuba	Aa	NNP
-.	character	.
-Moinelo	Aa	NNP
-'s	No_match	POS
-Gallery	Aa	NNP
-and	aa	CC
-Vertical	Aa	JJ
-Gallery	Aa	NNP
-contain	aa	VB
-photos	aa	NNS
-from	aa	IN
-the	aa	DT
-studio	aa	NN
-of	aa	IN
-artist	aa	NN
-Manuel	Aa	NNP
-Moinelo	Aa	NNP
-Pineiro	Aa	NNP
-in	aa	IN
-Matanzas	Aa	NNP
-,	character	,
-Cuba	Aa	NNP
-,	character	,
-taken	aa	VBN
-by	aa	IN
-Mary	Aa	NNP
-Overby	Aa	NNP
-in	aa	IN
-2001	num	CD
-on	aa	IN
-a	No_match	DT
-trip	aa	NN
-with	aa	IN
-percussionist	aa	NN
-Carol	Aa	NNP
-Steele	Aa	NNP
-and	aa	CC
-Steelina	Aa	NNP
-Productions	Aa	NNPS
-.	character	.
-Cuban	Aa	NNP
-Rumba	Aa	NN
-Music	Aa	NN
-includes	aa	VBZ
-the	aa	DT
-Cuban	Aa	NNP
-Musician's	No_match	NNS
-Photo	Aa	NNP
-Gallery	Aa	NNP
-with	aa	IN
-photos	aa	NNS
-from	aa	IN
-Cuba	Aa	NNP
-taken	aa	VBN
-in	aa	IN
-2001;	num	CD
-links	aa	NNS
-to	aa	TO
-related	aa	JJ
-pages	aa	NNS
-about	aa	IN
-cuban	aa	NN
-musicians;	aa	NN
-and	aa	CC
-other	aa	JJ
-collections	aa	NNS
-of	aa	IN
-photos	aa	NNS
-from	aa	IN
-Cuba	Aa	NNP
-by	aa	IN
-the	aa	DT
-author.	aa	IN
-Rumba	Aa	NN
-y	No_match	NN
-Folkl�rico	No_match	NN
-en	aa	IN
-Matanzas	Aa	NNP
-a	No_match	DT
-collection	aa	NN
-of	aa	IN
-photographs	aa	NNS
-from	aa	IN
-my	aa	PRP$
-trip	aa	NN
-to	aa	TO
-Cuba	Aa	NNP
-with	aa	IN
-Carribean	Aa	NNP
-Music	Aa	NN
-and	aa	CC
-Dance	Aa	NNP
-in	aa	IN
-December	Aa	NNP
-1994.	num	CD
-Established:	Aa	NN
-February	Aa	NNP
-1994	num	CD
-Modified:	Aa	NN
-June	Aa	NNP
-13,	num	CD
-2004	num	CD
-John	Aa	NNP
-Beale	Aa	NNP
-'s	No_match	POS
-Home	Aa	NN
-Page	Aa	NNP
-Picture	Aa	NNP
-of	aa	IN
-John	Aa	NNP
-This	Aa	DT
-is	aa	VBZ
-my	aa	PRP$
-home	aa	NN
-page,	aa	NN
-with	aa	IN
-examples	aa	NNS
-of	aa	IN
-some	aa	DT
-of	aa	IN
-my	aa	PRP$
-hobbies.	aa	NN
-At	AA	IN
-the	aa	DT
-moment,	aa	NN
-I	No_match	PRP
-have	aa	VB
-some	aa	DT
-questions	aa	NNS
-and	aa	CC
-answers	aa	NNS
-about	aa	IN
-digital	aa	JJ
-video	aa	NN
-cameras.	aa	NN
-I	No_match	PRP
-also	aa	RB
-have	aa	VB
-raytraced	aa	VBN
-images	aa	NNS
-and	aa	CC
-some	aa	DT
-utility	aa	NN
-programs	aa	NNS
-related	aa	JJ
-to	aa	TO
-computer	aa	NN
-graphics.	aa	NN
-Making	Aa	VBG
-music	aa	NN
-is	aa	VBZ
-another	aa	DT
-one	aa	CD
-of	aa	IN
-my	aa	PRP$
-interests,	aa	NN
-but	aa	CC
-I	No_match	PRP
-don't	No_match	NN
-have	aa	VB
-the	aa	DT
-disk	aa	NN
-space	aa	NN
-(well...	No_match	NN
-or	aa	CC
-the	aa	DT
-talent)	aa	NN
-to	aa	TO
-put	aa	VBN
-it	aa	PRP
-online.	aa	NN
-To	AA	TO
-look	aa	NN
-through	aa	IN
-my	aa	PRP$
-web	aa	NN
-page,	aa	NN
-you	aa	PRP
-can	aa	MD
-look	aa	NN
-at	aa	IN
-the	aa	DT
-index	aa	NN
-or	aa	CC
-click	aa	VB
-on	aa	IN
-a	No_match	DT
-link	aa	NN
-below.	aa	IN
-TRV900	num	NN
-Camcorder	Aa	NN
-GL1	AA	NN
-Camcorder	Aa	NN
-Imaginary	Aa	JJ
-Landscapes	Aa	NNP
-Source:	Aa	NN
-HF-Lab	No_match	JJ
-etc.	aa	FW
-A	No_match	DT
-few	aa	JJ
-photographs	aa	NNS
-Other	Aa	JJ
-landscapes.	aa	NN
-Warp	Aa	NN
-(for	aa	NN
-GIMP)	AA	NN
-Measurements	Aa	NNS
-Fractals.	Aa	NN
-Go	AA	VB
-Linux	Aa	NN
-Funny	Aa	JJ
-Lists	Aa	NNS
-Sailing	Aa	NNP
-Beale	Aa	NNP
-Corner	Aa	NN
-Personal	Aa	NNP
-Page	Aa	NNP
-Danse	Aa	NNP
-Libre	Aa	NNP
-Who	Aa	WP
-is	aa	VBZ
-this	aa	DT
-guy	aa	NN
-anyway?	aa	IN
-This	Aa	DT
-page	aa	NN
-was	aa	VBD
-last	aa	JJ
-changed	aa	VBN
-Jan	Aa	NNP
-19	num	CD
-2000	num	CD
-Look	Aa	VB
-at	aa	IN
-the	aa	DT
-main	aa	JJ
-guest	aa	NN
-book	aa	NN
-or	aa	CC
-the	aa	DT
-TRV900	num	NN
-guest	aa	NN
-book.	aa	NN
-Linux	Aa	NN
-Any	Aa	DT
-browser	aa	NN
-will	aa	MD
-do	aa	VB
-About	Aa	IN
-Myself	Aa	NN
-I'm	No_match	NN
-23	num	CD
-and	aa	CC
-from	aa	IN
-Amersham	Aa	NNP
-,	character	,
-Buckinghamshire	Aa	NNP
-,	character	,
-UK	AA	NNP
-.	character	.
-I	No_match	PRP
-currently	aa	RB
-work	aa	NN
-as	aa	IN
-Website	Aa	NN
-Administrator	Aa	NNP
-for	aa	IN
-Armari	Aa	FW
-Ltd	Aa	NNP
-,	character	,
-a	No_match	DT
-leading	aa	VBG
-specialist	aa	NN
-manufacturer	aa	NN
-and	aa	CC
-integrator	aa	NN
-of	aa	IN
-high	aa	JJ
-performance	aa	NN
-computer	aa	NN
-systems	aa	NNS
-and	aa	CC
-solutions.	aa	NN
-My	AA	PRP$
-previous	aa	JJ
-role	aa	NN
-was	aa	VBD
-as	aa	IN
-the	aa	DT
-Assistant	Aa	NNP
-Webmaster	Aa	NN
-for	aa	IN
-The	Aa	DT
-Entertainer	Aa	NN
-(Amersham)	Aa	NN
-Ltd	Aa	NNP
-.	character	.
-the	aa	DT
-UK	AA	NNP
-'s	No_match	POS
-largest	aa	JJS
-independent	aa	JJ
-toy	aa	NN
-retailer.	aa	NN
-I	No_match	PRP
-was	aa	VBD
-educated	aa	VBN
-at	aa	IN
-Cademuir	Aa	NNP
-International	Aa	NNP
-School	Aa	NNP
-,	character	,
-in	aa	IN
-Scotland	Aa	NNP
-which	aa	WDT
-has	aa	VBZ
-sadly	aa	RB
-now	aa	RB
-closed,	aa	NN
-and	aa	CC
-then	aa	RB
-at	aa	IN
-West	Aa	NNP
-Middlesex	Aa	NNP
-College	Aa	NNP
-.	character	.
-I	No_match	PRP
-am	aa	RB
-a	No_match	DT
-member	aa	NN
-of	aa	IN
-Amersham	Aa	NNP
-Free	Aa	NNP
-Church	Aa	NNP
-,	character	,
-which	aa	WDT
-is	aa	VBZ
-where	aa	WRB
-I	No_match	PRP
-have	aa	VB
-been	aa	VBN
-part	aa	NN
-of,	aa	NN
-all	aa	DT
-my	aa	PRP$
-life.	aa	NN
-Hobbies	Aa	NNS
-and	aa	CC
-Interests	Aa	NNS
-Including	Aa	VBG
-but	aa	CC
-not	aa	RB
-limited	aa	JJ
-to:	aa	IN
-Archery	Aa	NNP
-I	No_match	PRP
-am	aa	RB
-a	No_match	DT
-member	aa	NN
-of	aa	IN
-Whiteleaf	Aa	NNP
-Bowmen	Aa	NNS
-,	character	,
-a	No_match	DT
-local	aa	JJ
-club	aa	NN
-and	aa	CC
-shoot	aa	NN
-there	aa	RB
-regularly.	aa	NN
-I	No_match	PRP
-am	aa	RB
-also	aa	RB
-a	No_match	DT
-qualified	aa	VBN
-Archery	Aa	NNP
-Leader	Aa	NNP
-and	aa	CC
-regularly	aa	RB
-teach	aa	VB
-the	aa	DT
-sport	aa	NN
-to	aa	TO
-beginners.	aa	NN
-Music	Aa	NN
-I	No_match	PRP
-play	aa	NN
-the	aa	DT
-Violin,	Aa	NN
-Tin	Aa	NN
-Whistle,	Aa	NN
-and	aa	CC
-Bowed	Aa	VBN
-Psaltery,	Aa	NN
-mostly	aa	RB
-by	aa	IN
-ear,	aa	NN
-but	aa	CC
-I	No_match	PRP
-do	aa	VB
-read	aa	VB
-music	aa	NN
-and	aa	CC
-play	aa	NN
-the	aa	DT
-Violin	Aa	NNP
-in	aa	IN
-my	aa	PRP$
-Church	Aa	NNP
-'s	No_match	POS
-orchestra.	aa	NN
-Web	Aa	NN
-design	aa	NN
-I	No_match	PRP
-create	aa	VB
-and	aa	CC
-manage	aa	VB
-the	aa	DT
-web	aa	NN
-sites	aa	NNS
-for	aa	IN
-a	No_match	DT
-few	aa	JJ
-local	aa	JJ
-organisations	aa	NNS
-Photography	Aa	NNP
-You	Aa	PRP
-will	aa	MD
-find	aa	VB
-a	No_match	DT
-selection	aa	NN
-of	aa	IN
-my	aa	PRP$
-photographs	aa	NNS
-on	aa	IN
-this	aa	DT
-site,	aa	NN
-which	aa	WDT
-I	No_match	PRP
-update	aa	VB
-from	aa	IN
-time	aa	NN
-to	aa	TO
-time.	aa	IN
-Welcome	Aa	VB
-to	aa	TO
-Steven	Aa	NNP
-'s	No_match	POS
-Home	Aa	NN
-Page	Aa	NNP
-*	character	SYM
-About	Aa	IN
-Me	AA	PRP
-(coming	aa	VBG
-soon)	aa	NN
-*	character	SYM
-My	AA	PRP$
-Career	Aa	NNP
-o	No_match	NN
-My	AA	PRP$
-Economics	Aa	NNP
-Home	Aa	NN
-Page	Aa	NNP
-(down	aa	VBN
-for	aa	IN
-updating)	aa	NN
-o	No_match	NN
-Current	Aa	JJ
-CV	AA	NN
-*	character	SYM
-My	AA	PRP$
-Hobbies	Aa	NNS
-(coming	aa	VBG
-soon)	aa	NN
-o	No_match	NN
-Skiing	Aa	NN
-o	No_match	NN
-Surfing	Aa	VBG
-o	No_match	NN
-Tramping	Aa	VBG
-o	No_match	NN
-Team	Aa	NNP
-Sports	Aa	NNP
-*	character	SYM
-Travel	Aa	NN
-(coming	aa	VBG
-soon)	aa	NN
-o	No_match	NN
-Airlines/Airfare	No_match	NNP
-o	No_match	NN
-Hotels	Aa	NNPS
-o	No_match	NN
-US	AA	NNP
-o	No_match	NN
-Canada	Aa	NNP
-o	No_match	NN
-Europe	Aa	NNP
-o	No_match	NN
-India	Aa	NNP
-*	character	SYM
-Links	Aa	NNP
-to	aa	TO
-Friends	Aa	NNPS
-(coming	aa	VBG
-soon)	aa	NN
-*	character	SYM
-Email	Aa	VB
-Steven	Aa	NNP
-Natasha	Aa	NNP
-'s	No_match	POS
-Home	Aa	NN
-Page	Aa	NNP
-Our	Aa	PRP$
-Photo	Aa	NNP
-Album	Aa	NN
-Welcome	Aa	VB
-to	aa	TO
-ACL-08:	num	NN
-HLT	AA	NNP
-!	character	.
-ACL-08:	num	NN
-HLT	AA	NNP
-takes	aa	VBZ
-place	aa	NN
-at	aa	IN
-the	aa	DT
-Hyatt	Aa	NNP
-Regency	Aa	NN
-Hotel	Aa	NN
-in	aa	IN
-downtown	aa	NN
-Columbus,	Aa	NN
-Ohio	Aa	NNP
-.	character	.
-It	AA	PRP
-combines	aa	NNS
-the	aa	DT
-Annual	Aa	JJ
-Meeting	Aa	VBG
-of	aa	IN
-the	aa	DT
-Association	Aa	NNP
-for	aa	IN
-Computational	Aa	JJ
-Linguistics	Aa	NNS
-(ACL)	AA	NN
-with	aa	IN
-the	aa	DT
-Human	Aa	JJ
-Language	Aa	NN
-Technology	Aa	NN
-Conference	Aa	NN
-(HLT)	AA	NN
-of	aa	IN
-the	aa	DT
-North	Aa	NNP
-American	Aa	NNP
-Chapter	Aa	NN
-of	aa	IN
-the	aa	DT
-ACL	AA	NN
-.	character	.
-The	Aa	DT
-conference	aa	NN
-covers	aa	NNS
-a	No_match	DT
-broad	aa	JJ
-spectrum	aa	NN
-of	aa	IN
-disciplines	aa	NNS
-working	aa	VBG
-towards	aa	IN
-enabling	aa	VBG
-intelligent	aa	JJ
-systems	aa	NNS
-to	aa	TO
-interact	aa	NN
-with	aa	IN
-humans	aa	NNS
-using	aa	VBG
-natural	aa	JJ
-language,	aa	NN
-and	aa	CC
-towards	aa	IN
-enhancing	aa	VBG
-human-human	No_match	JJ
-communication	aa	NN
-through	aa	IN
-services	aa	NNS
-such	aa	JJ
-as	aa	IN
-speech	aa	NN
-recognition,	aa	NN
-automatic	aa	JJ
-translation,	aa	NN
-information	aa	NN
-retrieval,	aa	NN
-text	aa	NN
-summarization,	aa	NN
-and	aa	CC
-information	aa	NN
-extraction.	aa	NN
-The	Aa	DT
-ACL	AA	NN
-is	aa	VBZ
-proud	aa	NN
-to	aa	TO
-present	aa	JJ
-invited	aa	VBN
-talks	aa	NNS
-by	aa	IN
-Marc	Aa	NNP
-Swerts	Aa	NNS
-of	aa	IN
-Tilburg	Aa	NNP
-University	Aa	NNP
-and	aa	CC
-Susan	Aa	NNP
-Dumais	Aa	NNP
-of	aa	IN
-Microsoft	Aa	NNP
-Research	Aa	NNP
-.	character	.
-June	Aa	NNP
-15,	num	CD
-2008	num	CD
-Conference	Aa	NN
-Tutorials	Aa	NNS
-June	Aa	NNP
-16-18,	num	CD
-2008	num	CD
-Main	Aa	NNP
-Conference	Aa	NN
-June	Aa	NNP
-19-20,	num	CD
-2008	num	CD
-Conference	Aa	NN
-Workshops	Aa	NNS
-Welcome	Aa	VB
-reception,	aa	NN
-Sun	Aa	NNP
-June	Aa	NNP
-15	num	CD
-Student	Aa	NN
-Lunch,	Aa	NN
-Mon	Aa	NN
-June	Aa	NNP
-16	num	CD
-Banquet,	Aa	NN
-Tues	Aa	NNS
-June	Aa	NNP
-17	num	CD
-Accommodation	Aa	NN
-details	aa	NNS
-and	aa	CC
-travel	aa	NN
-information	aa	NN
-ACL-08:	num	NN
-HLT	AA	NNP
-Sponsors	Aa	NNS
-We	AA	PRP
-gratefully	aa	RB
-acknowledge	aa	VB
-the	aa	DT
-following	aa	VBG
-institutions	aa	NNS
-for	aa	IN
-their	aa	PRP$
-generous	aa	JJ
-sponsorship	aa	NN
-of	aa	IN
-this	aa	DT
-year's	No_match	NNS
-conference:	aa	NN
-Gold	Aa	NN
-Level	Aa	NN
-Silver	Aa	NN
-Level	Aa	NN
-Bronze	Aa	NN
-Level	Aa	NN
-Supporter	Aa	NNP
-Level	Aa	NN
-Contributor	Aa	NN
-IBM	AA	NNP
-Research	Aa	NNP
-(Best	Aa	IN
-Student	Aa	NN
-Paper	Aa	NN
-Award)	Aa	NN
-Language	Aa	NN
-Weaver	Aa	NNP
-(Conference	Aa	NN
-Bag)	Aa	NN
-University	Aa	NNP
-of	aa	IN
-Michigan	Aa	NNP
-School	Aa	NNP
-of	aa	IN
-Information	Aa	NN
-General	Aa	NNP
-Conference	Aa	NN
-Chair:	Aa	NN
-Kathleen	Aa	NNP
-McKeown	AaAa	NNP
-(	character	NN
-Columbia	Aa	NNP
-University	Aa	NNP
-)	character	NN
-acl08chair@ling.osu.edu	num	NN
-Program	Aa	NN
-Co-Chairs:	No_match	NN
-Johanna	Aa	NNP
-D.	AA	NNP
-Moore	Aa	NNP
-(	character	NN
-University	Aa	NNP
-of	aa	IN
-Edinburgh	Aa	NNP
-)	character	NN
-J.Moore@ed.ac.uk	No_match	NN
-Simone	Aa	NNP
-Teufel	Aa	NNP
-(	character	NN
-Cambridge	Aa	NNP
-University	Aa	NNP
-)	character	NN
-sht25@cl.cam.ac.uk	num	NN
-James	Aa	NNP
-Allan	Aa	NNP
-(	character	NN
-University	Aa	NNP
-of	aa	IN
-Massachusetts	Aa	NNP
-,	character	,
-Amherst	Aa	NNP
-)	character	NN
-allan@cs.umass.edu	No_match	IN
-Sadaoki	Aa	FW
-Furui	Aa	NNP
-(	character	NN
-Tokyo	Aa	NNP
-Institute	Aa	NNP
-of	aa	IN
-Technology	Aa	NN
-,	character	,
-Japan	Aa	NNP
-)	character	NN
-furui@cs.titech.ac.jp	No_match	NN
-Workshop:	Aa	JJ
-Ming	Aa	VBG
-Zhou	Aa	NNP
-(	character	NN
-Microsoft	Aa	NNP
-Research	Aa	NNP
-China	Aa	NNP
-)	character	NN
-mingzhou@microsoft.com	No_match	NNP
-Tutorials:	Aa	NN
-Ani	Aa	NNS
-Nenkova	Aa	NN
-(	character	NN
-Univ	Aa	NNP
-of	aa	IN
-Pennsylvania	Aa	NNP
-,	character	,
-USA	AA	NNP
-)	character	NN
-nenkova@seas.upenn.edu	No_match	NN
-Marilyn	Aa	NNP
-Walker	Aa	NNP
-(	character	NN
-Univ	Aa	NNP
-of	aa	IN
-Sheffield	Aa	NNP
-,	character	,
-UK	AA	NNP
-)	character	NN
-m.a.walker@sheffield.ac.uk	No_match	NN
-Eugene	Aa	NNP
-Agichtein	Aa	NN
-(	character	NN
-Emory	Aa	NNP
-University	Aa	NNP
-,	character	,
-USA	AA	NNP
-)	character	NN
-eugene@mathcs.emory.edu	No_match	NN
-Demos:	Aa	NN
-Jimmy	Aa	NNP
-Lin	Aa	NNP
-(	character	NN
-University	Aa	NNP
-of	aa	IN
-Maryland	Aa	NNP
-)	character	NN
-jimmylin@umd.edu	No_match	NN
-Student	Aa	NN
-Co-Chairs:	No_match	NN
-Faculty	Aa	NN
-rep:	aa	NN
-Jan	Aa	NNP
-Wiebe	Aa	NNP
-(	character	NN
-University	Aa	NNP
-of	aa	IN
-Pittsburgh	Aa	NNP
-)	character	NN
-wiebe@cs.pitt.edu	No_match	NN
-Student	Aa	NN
-NL:	AA	NN
-Wolfgang	Aa	NNP
-Maier	Aa	NNP
-(	character	NN
-U	No_match	NNP
-of	aa	IN
-Tubingen	Aa	NNP
-,	character	,
-Germany	Aa	NNP
-)	character	NN
-wo.maier@uni-tuebingen.de	No_match	NN
-Student	Aa	NN
-Speech:	Aa	NN
-Ebru	Aa	NNP
-Arisoy	Aa	NNP
-(	character	NN
-Bogazici	Aa	NNP
-University	Aa	NNP
-,	character	,
-Turkey	Aa	NNP
-)	character	NN
-arisoyeb@boun.edu.tr	No_match	NN
-Student	Aa	NN
-IR:	AA	NN
-Keisuke	Aa	NNP
-Inoue	Aa	NNP
-(	character	NN
-Syracuse	Aa	NNP
-University	Aa	NNP
-,	character	,
-USA	AA	NNP
-)	character	NN
-kinoue@syr.edu	No_match	NN
-Local	Aa	JJ
-Arrangements:	Aa	NN
-Chris	Aa	NNP
-Brew	Aa	VB
-cbrew@ling.osu.edu	No_match	NN
-Donna	Aa	NNP
-Byron	Aa	NNP
-dbyron@cse.osu.edu	No_match	NN
-Eric	Aa	NNP
-Fosler-Lussier	No_match	NNP
-fosler@cse.osu.edu	No_match	NN
-Detmar	Aa	NNP
-Meurers	Aa	NNS
-dm@ling.osu.edu	No_match	NN
-Michael	Aa	NNP
-White	Aa	NNP
-mwhite@ling.osu.edu	No_match	NN
-DJ	AA	NNP
-Hovermale	Aa	NNP
-acl08local@ling.osu.edu	num	NN
-(Webmaster)	Aa	NN
-back	aa	RB
-to	aa	TO
-top	aa	NN
-Copyright	Aa	NN
-�	character	NN
-2007	num	CD
-The	Aa	DT
-Ohio	Aa	NNP
-State	Aa	NN
-University	Aa	NNP
-A	No_match	DT
-big	aa	JJ
-welcome	aa	JJ
-from	aa	IN
-Gary	Aa	NNP
-Sims	Aa	NNS
-This	Aa	DT
-is	aa	VBZ
-Gary	Aa	NNP
-'s	No_match	POS
-homepage	aa	NN
-and	aa	CC
-it	aa	PRP
-is	aa	VBZ
-not	aa	RB
-exciting	aa	JJ
-in	aa	IN
-anyway	aa	RB
-whatsoever	aa	RB
-and	aa	CC
-its	aa	PRP$
-brief!	aa	NN
-All	Aa	DT
-the	aa	DT
-real	aa	RB
-activity	aa	NN
-happens	aa	VBZ
-over	aa	IN
-on	aa	IN
-my	aa	PRP$
-blog:	aa	NN
-Simo's	No_match	NNS
-Sagacity	Aa	NN
-(The	Aa	NN
-quality	aa	NN
-of	aa	IN
-keen	aa	JJ
-and	aa	CC
-farsighted	aa	VBN
-penetration	aa	NN
-and	aa	CC
-judgment).	No_match	NN
-I	No_match	PRP
-have	aa	VB
-a	No_match	DT
-web	aa	NN
-directory	aa	NN
-and	aa	CC
-also	aa	RB
-if	aa	IN
-you	aa	PRP
-are	aa	VBP
-intrested	aa	VBN
-I	No_match	PRP
-have	aa	VB
-some	aa	DT
-bookmarks	aa	NNS
-and	aa	CC
-a	No_match	DT
-page	aa	NN
-of	aa	IN
-interesting	aa	JJ
-links.	aa	IN
-You	Aa	PRP
-can	aa	MD
-email	aa	NN
-me	aa	PRP
-on	aa	IN
-gary	aa	NN
-at	aa	IN
-garysims	aa	NNS
-dot	aa	NN
-co	aa	NN
-dot	aa	NN
-uk	aa	NN
-or	aa	CC
-at	aa	IN
-gmail.com	No_match	NNP
-(see	aa	NN
-bottom	aa	NN
-of	aa	IN
-page)	aa	NN
-You	Aa	PRP
-can	aa	MD
-download	aa	NN
-my	aa	PRP$
-PGP	AA	NN
-Public	Aa	NNP
-key	aa	NN
-from	aa	IN
-here.	aa	RB
-If	AA	IN
-I	No_match	PRP
-have	aa	VB
-helped	aa	VBN
-you	aa	PRP
-in	aa	IN
-some	aa	DT
-way	aa	NN
-and	aa	CC
-you	aa	PRP
-want	aa	VB
-to	aa	TO
-show	aa	NN
-your	aa	PRP$
-appreciation	aa	NN
-then	aa	RB
-you	aa	PRP
-can	aa	MD
-donate	aa	VB
-$5	num	CD
-to	aa	TO
-me	aa	PRP
-here.	aa	RB
-Brevity	Aa	NNP
-My	AA	PRP$
-liege,	aa	NN
-and	aa	CC
-madam,	aa	NN
-to	aa	TO
-expostulate	aa	VB
-what	aa	WDT
-majesty	aa	NN
-should	aa	MD
-be,	aa	NN
-what	aa	WDT
-duty	aa	NN
-is,	aa	NN
-why	aa	WRB
-day	aa	NN
-is	aa	VBZ
-day,	aa	NN
-night	aa	NN
-night,	aa	IN
-and	aa	CC
-time	aa	NN
-is	aa	VBZ
-time,	aa	IN
-were	aa	VBD
-nothing	aa	NN
-but	aa	CC
-to	aa	TO
-waste	aa	NN
-night,	aa	IN
-day	aa	NN
-and	aa	CC
-time.	aa	IN
-Therefore,	Aa	NN
-since	aa	IN
-brevity	aa	NN
-is	aa	VBZ
-the	aa	DT
-soul	aa	NN
-of	aa	IN
-wit,	aa	NN
-and	aa	CC
-tediousness	aa	NN
-the	aa	DT
-limbs	aa	NNS
-and	aa	CC
-outward	aa	JJ
-flourishes,	aa	NN
-I	No_match	PRP
-will	aa	MD
-be	aa	VB
-brief.	aa	NN
-Links	Aa	NNP
-Bible	Aa	NNP
-Study	Aa	NN
-Tool	Aa	NNP
-Linux	Aa	NN
-Operating	Aa	NN
-System	Aa	NNP
-New	Aa	NNP
-Covenant	Aa	NN
-Workshop	Aa	NNP
-Free	Aa	NNP
-Press	Aa	NNP
-Release	Aa	NNP
-Service	Aa	NNP
-Gary	Aa	NNP
-'s	No_match	POS
-page	aa	NN
-over	aa	IN
-at	aa	IN
-GooglePages	AaAa	NNS
+Mary	Aa	NNP	adj
+A.	AA	NN	no_match
+Overby	Aa	NNP	no_match
+mao@ibiblio.org	No_match	NN	no_match
+I	No_match	PRP	no_match
+work	aa	NN	no_match
+as	aa	IN	plural
+computer	aa	NN	noun
+consultant	aa	NN	no_match
+in	aa	IN	prep
+Chapel	Aa	NN	no_match
+Hill	Aa	NNP	no_match
+,	character	,	no_match
+North	Aa	NNP	no_match
+Carolina	Aa	NNP	no_match
+.	character	.	no_match
+Previously,	Aa	NN	adj
+I	No_match	PRP	no_match
+worked	aa	VBD	past
+for	aa	IN	prep
+webslingerZ,	No_match	NN	no_match
+Inc.	Aa	NNP	no_match
+and	aa	CC	no_match
+the	aa	DT	no_match
+University	Aa	NNP	no_match
+of	aa	IN	prep
+North	Aa	NNP	no_match
+Carolina	Aa	NNP	no_match
+at	aa	IN	prep
+Chapel	Aa	NN	no_match
+Hill	Aa	NNP	no_match
+doing	aa	VBG	adj
+project	aa	NN	no_match
+management,	aa	NN	no_match
+database	aa	NN	no_match
+development	aa	NN	noun
+and	aa	CC	no_match
+computer	aa	NN	noun
+programming.	aa	NN	no_match
+I've	No_match	NN	no_match
+been	aa	VBN	verb
+publishing	aa	NN	adj
+and	aa	CC	no_match
+developing	aa	VBG	adj
+database	aa	NN	no_match
+applications	aa	NNS	plural
+on	aa	IN	prep
+the	aa	DT	no_match
+web	aa	NN	no_match
+since	aa	IN	no_match
+February	Aa	NNP	adj
+1994.	num	CD	no_match
+I	No_match	PRP	no_match
+play	aa	NN	no_match
+drums	aa	NNS	plural
+for	aa	IN	prep
+fun,	aa	NN	no_match
+mostly	aa	RB	adv
+Afro-Cuban	No_match	JJ	no_match
+and	aa	CC	no_match
+West	Aa	NNP	no_match
+African	Aa	NNP	adj
+rhythms.	aa	NN	no_match
+I	No_match	PRP	no_match
+have	aa	VB	no_match
+studied	aa	VBN	past
+with	aa	IN	no_match
+Beverly	Aa	NNP	adv
+Botsford	Aa	NNP	no_match
+,	character	,	no_match
+Khalid	Aa	NNP	adj
+Saleem	Aa	NNP	adj
+,	character	,	no_match
+Bradley	Aa	NNP	no_match
+Simmons	Aa	NNP	plural
+and	aa	CC	no_match
+Mamady	Aa	NNP	no_match
+Keita	Aa	NNP	no_match
+.	character	.	no_match
+I	No_match	PRP	no_match
+traveled	aa	VBN	past
+to	aa	TO	prep
+Cuba	Aa	NNP	no_match
+to	aa	TO	prep
+study	aa	NN	no_match
+rumba	aa	NN	no_match
+with	aa	IN	no_match
+Los	Aa	NNP	plural
+Munequitos	Aa	NNP	plural
+de	aa	IN	no_match
+Matanzas	Aa	NNP	plural
+in	aa	IN	prep
+1994	num	CD	no_match
+and	aa	CC	no_match
+with	aa	IN	no_match
+AfroCuba	AaAa	NNP	no_match
+de	aa	IN	no_match
+Matanzas	Aa	NNP	plural
+in	aa	IN	prep
+2001.	num	CD	no_match
+In	AA	IN	no_match
+2004,	num	CD	no_match
+I	No_match	PRP	no_match
+spent	aa	VBN	no_match
+a	No_match	DT	no_match
+month	aa	NN	no_match
+in	aa	IN	prep
+Salvador	Aa	NNP	adj
+,	character	,	no_match
+Bahia	Aa	NNP	no_match
+,	character	,	no_match
+Brazil	Aa	NNP	no_match
+volunteering	aa	VBG	adj
+with	aa	IN	no_match
+Cross	Aa	NN	plural
+Cultural	Aa	JJ	adj
+Solutions	Aa	NNPS	plural
+and	aa	CC	no_match
+studying	aa	VBG	adj
+Brazilian	Aa	JJ	no_match
+music.	aa	NN	adj
+I	No_match	PRP	no_match
+play	aa	NN	no_match
+the	aa	DT	no_match
+tamborim	aa	NN	no_match
+in	aa	IN	prep
+the	aa	DT	no_match
+Carolina	Aa	NNP	no_match
+Samba	Aa	NNP	no_match
+School	Aa	NNP	no_match
+directed	aa	VBN	past
+by	aa	IN	prep
+Brazilian	Aa	JJ	no_match
+Eduardo	Aa	NNP	no_match
+DeSouza	AaAa	NNP	no_match
+.	character	.	no_match
+�	character	NN	no_match
+Cuba	Aa	NNP	no_match
+!	character	.	no_match
+was	aa	VBD	plural
+one	aa	CD	no_match
+of	aa	IN	prep
+the	aa	DT	no_match
+first	aa	RB	no_match
+websites	aa	NNS	plural
+about	aa	IN	prep
+Cuba	Aa	NNP	no_match
+,	character	,	no_match
+featuring	aa	VBG	adj
+Cuban	Aa	NNP	no_match
+musicians;	aa	NN	adj
+pictures	aa	NNS	plural
+of	aa	IN	prep
+Cuban	Aa	NNP	no_match
+people	aa	NNS	no_match
+and	aa	CC	no_match
+places;	aa	NN	no_match
+and	aa	CC	no_match
+links	aa	NNS	plural
+to	aa	TO	prep
+other	aa	JJ	noun
+information	aa	NN	noun
+about	aa	IN	prep
+Cuba	Aa	NNP	no_match
+.	character	.	no_match
+Moinelo	Aa	NNP	no_match
+'s	No_match	POS	plural
+Gallery	Aa	NNP	adj
+and	aa	CC	no_match
+Vertical	Aa	JJ	adj
+Gallery	Aa	NNP	adj
+contain	aa	VB	no_match
+photos	aa	NNS	plural
+from	aa	IN	prep
+the	aa	DT	no_match
+studio	aa	NN	no_match
+of	aa	IN	prep
+artist	aa	NN	no_match
+Manuel	Aa	NNP	no_match
+Moinelo	Aa	NNP	no_match
+Pineiro	Aa	NNP	no_match
+in	aa	IN	prep
+Matanzas	Aa	NNP	plural
+,	character	,	no_match
+Cuba	Aa	NNP	no_match
+,	character	,	no_match
+taken	aa	VBN	verb
+by	aa	IN	prep
+Mary	Aa	NNP	adj
+Overby	Aa	NNP	no_match
+in	aa	IN	prep
+2001	num	CD	no_match
+on	aa	IN	prep
+a	No_match	DT	no_match
+trip	aa	NN	no_match
+with	aa	IN	no_match
+percussionist	aa	NN	no_match
+Carol	Aa	NNP	no_match
+Steele	Aa	NNP	no_match
+and	aa	CC	no_match
+Steelina	Aa	NNP	no_match
+Productions	Aa	NNPS	plural
+.	character	.	no_match
+Cuban	Aa	NNP	no_match
+Rumba	Aa	NN	no_match
+Music	Aa	NN	adj
+includes	aa	VBZ	plural
+the	aa	DT	no_match
+Cuban	Aa	NNP	no_match
+Musician's	No_match	NNS	plural
+Photo	Aa	NNP	no_match
+Gallery	Aa	NNP	adj
+with	aa	IN	no_match
+photos	aa	NNS	plural
+from	aa	IN	prep
+Cuba	Aa	NNP	no_match
+taken	aa	VBN	verb
+in	aa	IN	prep
+2001;	num	CD	no_match
+links	aa	NNS	plural
+to	aa	TO	prep
+related	aa	JJ	past
+pages	aa	NNS	plural
+about	aa	IN	prep
+cuban	aa	NN	no_match
+musicians;	aa	NN	adj
+and	aa	CC	no_match
+other	aa	JJ	noun
+collections	aa	NNS	plural
+of	aa	IN	prep
+photos	aa	NNS	plural
+from	aa	IN	prep
+Cuba	Aa	NNP	no_match
+by	aa	IN	prep
+the	aa	DT	no_match
+author.	aa	IN	no_match
+Rumba	Aa	NN	no_match
+y	No_match	NN	no_match
+Folkl�rico	No_match	NN	adj
+en	aa	IN	verb
+Matanzas	Aa	NNP	plural
+a	No_match	DT	no_match
+collection	aa	NN	noun
+of	aa	IN	prep
+photographs	aa	NNS	plural
+from	aa	IN	prep
+my	aa	PRP$	no_match
+trip	aa	NN	no_match
+to	aa	TO	prep
+Cuba	Aa	NNP	no_match
+with	aa	IN	no_match
+Carribean	Aa	NNP	no_match
+Music	Aa	NN	adj
+and	aa	CC	no_match
+Dance	Aa	NNP	no_match
+in	aa	IN	prep
+December	Aa	NNP	noun
+1994.	num	CD	no_match
+Established:	Aa	NN	adj
+February	Aa	NNP	adj
+1994	num	CD	no_match
+Modified:	Aa	NN	no_match
+June	Aa	NNP	no_match
+13,	num	CD	no_match
+2004	num	CD	no_match
+John	Aa	NNP	no_match
+Beale	Aa	NNP	adj
+'s	No_match	POS	plural
+Home	Aa	NN	no_match
+Page	Aa	NNP	no_match
+Picture	Aa	NNP	adj
+of	aa	IN	prep
+John	Aa	NNP	no_match
+This	Aa	DT	plural
+is	aa	VBZ	plural
+my	aa	PRP$	no_match
+home	aa	NN	no_match
+page,	aa	NN	no_match
+with	aa	IN	no_match
+examples	aa	NNS	plural
+of	aa	IN	prep
+some	aa	DT	adj
+of	aa	IN	prep
+my	aa	PRP$	no_match
+hobbies.	aa	NN	no_match
+At	AA	IN	no_match
+the	aa	DT	no_match
+moment,	aa	NN	no_match
+I	No_match	PRP	no_match
+have	aa	VB	no_match
+some	aa	DT	adj
+questions	aa	NNS	plural
+and	aa	CC	no_match
+answers	aa	NNS	plural
+about	aa	IN	prep
+digital	aa	JJ	adj
+video	aa	NN	no_match
+cameras.	aa	NN	no_match
+I	No_match	PRP	no_match
+also	aa	RB	adj
+have	aa	VB	no_match
+raytraced	aa	VBN	past
+images	aa	NNS	plural
+and	aa	CC	no_match
+some	aa	DT	adj
+utility	aa	NN	noun
+programs	aa	NNS	plural
+related	aa	JJ	past
+to	aa	TO	prep
+computer	aa	NN	noun
+graphics.	aa	NN	adj
+Making	Aa	VBG	adj
+music	aa	NN	adj
+is	aa	VBZ	plural
+another	aa	DT	noun
+one	aa	CD	no_match
+of	aa	IN	prep
+my	aa	PRP$	no_match
+interests,	aa	NN	no_match
+but	aa	CC	no_match
+I	No_match	PRP	no_match
+don't	No_match	NN	no_match
+have	aa	VB	no_match
+the	aa	DT	no_match
+disk	aa	NN	no_match
+space	aa	NN	no_match
+(well...	No_match	NN	no_match
+or	aa	CC	no_match
+the	aa	DT	no_match
+talent)	aa	NN	adj
+to	aa	TO	prep
+put	aa	VBN	no_match
+it	aa	PRP	no_match
+online.	aa	NN	no_match
+To	AA	TO	no_match
+look	aa	NN	no_match
+through	aa	IN	prep
+my	aa	PRP$	no_match
+web	aa	NN	no_match
+page,	aa	NN	no_match
+you	aa	PRP	no_match
+can	aa	MD	no_match
+look	aa	NN	no_match
+at	aa	IN	prep
+the	aa	DT	no_match
+index	aa	NN	no_match
+or	aa	CC	no_match
+click	aa	VB	adj
+on	aa	IN	prep
+a	No_match	DT	no_match
+link	aa	NN	no_match
+below.	aa	IN	no_match
+TRV900	num	NN	no_match
+Camcorder	Aa	NN	noun
+GL1	AA	NN	no_match
+Camcorder	Aa	NN	noun
+Imaginary	Aa	JJ	adj
+Landscapes	Aa	NNP	plural
+Source:	Aa	NN	no_match
+HF-Lab	No_match	JJ	no_match
+etc.	aa	FW	no_match
+A	No_match	DT	no_match
+few	aa	JJ	no_match
+photographs	aa	NNS	plural
+Other	Aa	JJ	noun
+landscapes.	aa	NN	no_match
+Warp	Aa	NN	no_match
+(for	aa	NN	no_match
+GIMP)	AA	NN	no_match
+Measurements	Aa	NNS	plural
+Fractals.	Aa	NN	adj
+Go	AA	VB	no_match
+Linux	Aa	NN	no_match
+Funny	Aa	JJ	no_match
+Lists	Aa	NNS	plural
+Sailing	Aa	NNP	adj
+Beale	Aa	NNP	adj
+Corner	Aa	NN	noun
+Personal	Aa	NNP	adj
+Page	Aa	NNP	no_match
+Danse	Aa	NNP	no_match
+Libre	Aa	NNP	no_match
+Who	Aa	WP	no_match
+is	aa	VBZ	plural
+this	aa	DT	plural
+guy	aa	NN	no_match
+anyway?	aa	IN	ques
+This	Aa	DT	plural
+page	aa	NN	no_match
+was	aa	VBD	plural
+last	aa	JJ	no_match
+changed	aa	VBN	past
+Jan	Aa	NNP	no_match
+19	num	CD	no_match
+2000	num	CD	no_match
+Look	Aa	VB	no_match
+at	aa	IN	prep
+the	aa	DT	no_match
+main	aa	JJ	no_match
+guest	aa	NN	no_match
+book	aa	NN	no_match
+or	aa	CC	no_match
+the	aa	DT	no_match
+TRV900	num	NN	no_match
+guest	aa	NN	no_match
+book.	aa	NN	no_match
+Linux	Aa	NN	no_match
+Any	Aa	DT	no_match
+browser	aa	NN	noun
+will	aa	MD	no_match
+do	aa	VB	no_match
+About	Aa	IN	no_match
+Myself	Aa	NN	no_match
+I'm	No_match	NN	no_match
+23	num	CD	no_match
+and	aa	CC	no_match
+from	aa	IN	prep
+Amersham	Aa	NNP	no_match
+,	character	,	no_match
+Buckinghamshire	Aa	NNP	no_match
+,	character	,	no_match
+UK	AA	NNP	no_match
+.	character	.	no_match
+I	No_match	PRP	no_match
+currently	aa	RB	adv
+work	aa	NN	no_match
+as	aa	IN	plural
+Website	Aa	NN	no_match
+Administrator	Aa	NNP	no_match
+for	aa	IN	prep
+Armari	Aa	FW	no_match
+Ltd	Aa	NNP	no_match
+,	character	,	no_match
+a	No_match	DT	no_match
+leading	aa	VBG	adj
+specialist	aa	NN	adj
+manufacturer	aa	NN	noun
+and	aa	CC	no_match
+integrator	aa	NN	no_match
+of	aa	IN	prep
+high	aa	JJ	no_match
+performance	aa	NN	no_match
+computer	aa	NN	noun
+systems	aa	NNS	plural
+and	aa	CC	no_match
+solutions.	aa	NN	no_match
+My	AA	PRP$	no_match
+previous	aa	JJ	plural
+role	aa	NN	no_match
+was	aa	VBD	plural
+as	aa	IN	plural
+the	aa	DT	no_match
+Assistant	Aa	NNP	no_match
+Webmaster	Aa	NN	noun
+for	aa	IN	prep
+The	Aa	DT	no_match
+Entertainer	Aa	NN	noun
+(Amersham)	Aa	NN	no_match
+Ltd	Aa	NNP	no_match
+.	character	.	no_match
+the	aa	DT	no_match
+UK	AA	NNP	no_match
+'s	No_match	POS	plural
+largest	aa	JJS	no_match
+independent	aa	JJ	no_match
+toy	aa	NN	no_match
+retailer.	aa	NN	no_match
+I	No_match	PRP	no_match
+was	aa	VBD	plural
+educated	aa	VBN	past
+at	aa	IN	prep
+Cademuir	Aa	NNP	no_match
+International	Aa	NNP	adj
+School	Aa	NNP	no_match
+,	character	,	no_match
+in	aa	IN	prep
+Scotland	Aa	NNP	no_match
+which	aa	WDT	adj
+has	aa	VBZ	plural
+sadly	aa	RB	adv
+now	aa	RB	no_match
+closed,	aa	NN	no_match
+and	aa	CC	no_match
+then	aa	RB	verb
+at	aa	IN	prep
+West	Aa	NNP	no_match
+Middlesex	Aa	NNP	no_match
+College	Aa	NNP	no_match
+.	character	.	no_match
+I	No_match	PRP	no_match
+am	aa	RB	no_match
+a	No_match	DT	no_match
+member	aa	NN	noun
+of	aa	IN	prep
+Amersham	Aa	NNP	no_match
+Free	Aa	NNP	no_match
+Church	Aa	NNP	no_match
+,	character	,	no_match
+which	aa	WDT	adj
+is	aa	VBZ	plural
+where	aa	WRB	no_match
+I	No_match	PRP	no_match
+have	aa	VB	no_match
+been	aa	VBN	verb
+part	aa	NN	no_match
+of,	aa	NN	no_match
+all	aa	DT	adj
+my	aa	PRP$	no_match
+life.	aa	NN	no_match
+Hobbies	Aa	NNS	plural
+and	aa	CC	no_match
+Interests	Aa	NNS	plural
+Including	Aa	VBG	adj
+but	aa	CC	no_match
+not	aa	RB	no_match
+limited	aa	JJ	past
+to:	aa	IN	no_match
+Archery	Aa	NNP	no_match
+I	No_match	PRP	no_match
+am	aa	RB	no_match
+a	No_match	DT	no_match
+member	aa	NN	noun
+of	aa	IN	prep
+Whiteleaf	Aa	NNP	no_match
+Bowmen	Aa	NNS	verb
+,	character	,	no_match
+a	No_match	DT	no_match
+local	aa	JJ	adj
+club	aa	NN	no_match
+and	aa	CC	no_match
+shoot	aa	NN	no_match
+there	aa	RB	no_match
+regularly.	aa	NN	no_match
+I	No_match	PRP	no_match
+am	aa	RB	no_match
+also	aa	RB	adj
+a	No_match	DT	no_match
+qualified	aa	VBN	past
+Archery	Aa	NNP	no_match
+Leader	Aa	NNP	noun
+and	aa	CC	no_match
+regularly	aa	RB	adv
+teach	aa	VB	no_match
+the	aa	DT	no_match
+sport	aa	NN	no_match
+to	aa	TO	prep
+beginners.	aa	NN	no_match
+Music	Aa	NN	adj
+I	No_match	PRP	no_match
+play	aa	NN	no_match
+the	aa	DT	no_match
+Violin,	Aa	NN	no_match
+Tin	Aa	NN	no_match
+Whistle,	Aa	NN	no_match
+and	aa	CC	no_match
+Bowed	Aa	VBN	past
+Psaltery,	Aa	NN	adj
+mostly	aa	RB	adv
+by	aa	IN	prep
+ear,	aa	NN	no_match
+but	aa	CC	no_match
+I	No_match	PRP	no_match
+do	aa	VB	no_match
+read	aa	VB	no_match
+music	aa	NN	adj
+and	aa	CC	no_match
+play	aa	NN	no_match
+the	aa	DT	no_match
+Violin	Aa	NNP	no_match
+in	aa	IN	prep
+my	aa	PRP$	no_match
+Church	Aa	NNP	no_match
+'s	No_match	POS	plural
+orchestra.	aa	NN	no_match
+Web	Aa	NN	no_match
+design	aa	NN	no_match
+I	No_match	PRP	no_match
+create	aa	VB	verb
+and	aa	CC	no_match
+manage	aa	VB	no_match
+the	aa	DT	no_match
+web	aa	NN	no_match
+sites	aa	NNS	plural
+for	aa	IN	prep
+a	No_match	DT	no_match
+few	aa	JJ	no_match
+local	aa	JJ	adj
+organisations	aa	NNS	plural
+Photography	Aa	NNP	no_match
+You	Aa	PRP	no_match
+will	aa	MD	no_match
+find	aa	VB	no_match
+a	No_match	DT	no_match
+selection	aa	NN	noun
+of	aa	IN	prep
+my	aa	PRP$	no_match
+photographs	aa	NNS	plural
+on	aa	IN	prep
+this	aa	DT	plural
+site,	aa	NN	no_match
+which	aa	WDT	adj
+I	No_match	PRP	no_match
+update	aa	VB	verb
+from	aa	IN	prep
+time	aa	NN	no_match
+to	aa	TO	prep
+time.	aa	IN	no_match
+Welcome	Aa	VB	no_match
+to	aa	TO	prep
+Steven	Aa	NNP	verb
+'s	No_match	POS	plural
+Home	Aa	NN	no_match
+Page	Aa	NNP	no_match
+*	character	SYM	no_match
+About	Aa	IN	no_match
+Me	AA	PRP	no_match
+(coming	aa	VBG	adj
+soon)	aa	NN	no_match
+*	character	SYM	no_match
+My	AA	PRP$	no_match
+Career	Aa	NNP	noun
+o	No_match	NN	no_match
+My	AA	PRP$	no_match
+Economics	Aa	NNP	plural
+Home	Aa	NN	no_match
+Page	Aa	NNP	no_match
+(down	aa	VBN	no_match
+for	aa	IN	prep
+updating)	aa	NN	no_match
+o	No_match	NN	no_match
+Current	Aa	JJ	no_match
+CV	AA	NN	no_match
+*	character	SYM	no_match
+My	AA	PRP$	no_match
+Hobbies	Aa	NNS	plural
+(coming	aa	VBG	adj
+soon)	aa	NN	no_match
+o	No_match	NN	no_match
+Skiing	Aa	NN	adj
+o	No_match	NN	no_match
+Surfing	Aa	VBG	adj
+o	No_match	NN	no_match
+Tramping	Aa	VBG	adj
+o	No_match	NN	no_match
+Team	Aa	NNP	no_match
+Sports	Aa	NNP	plural
+*	character	SYM	no_match
+Travel	Aa	NN	no_match
+(coming	aa	VBG	adj
+soon)	aa	NN	no_match
+o	No_match	NN	no_match
+Airlines/Airfare	No_match	NNP	no_match
+o	No_match	NN	no_match
+Hotels	Aa	NNPS	plural
+o	No_match	NN	no_match
+US	AA	NNP	no_match
+o	No_match	NN	no_match
+Canada	Aa	NNP	no_match
+o	No_match	NN	no_match
+Europe	Aa	NNP	no_match
+o	No_match	NN	no_match
+India	Aa	NNP	no_match
+*	character	SYM	no_match
+Links	Aa	NNP	plural
+to	aa	TO	prep
+Friends	Aa	NNPS	plural
+(coming	aa	VBG	adj
+soon)	aa	NN	no_match
+*	character	SYM	no_match
+Email	Aa	VB	no_match
+Steven	Aa	NNP	verb
+Natasha	Aa	NNP	no_match
+'s	No_match	POS	plural
+Home	Aa	NN	no_match
+Page	Aa	NNP	no_match
+Our	Aa	PRP$	no_match
+Photo	Aa	NNP	no_match
+Album	Aa	NN	no_match
+Welcome	Aa	VB	no_match
+to	aa	TO	prep
+ACL-08:	num	NN	no_match
+HLT	AA	NNP	no_match
+!	character	.	no_match
+ACL-08:	num	NN	no_match
+HLT	AA	NNP	no_match
+takes	aa	VBZ	plural
+place	aa	NN	no_match
+at	aa	IN	prep
+the	aa	DT	no_match
+Hyatt	Aa	NNP	no_match
+Regency	Aa	NN	no_match
+Hotel	Aa	NN	no_match
+in	aa	IN	prep
+downtown	aa	NN	no_match
+Columbus,	Aa	NN	no_match
+Ohio	Aa	NNP	no_match
+.	character	.	no_match
+It	AA	PRP	no_match
+combines	aa	NNS	plural
+the	aa	DT	no_match
+Annual	Aa	JJ	adj
+Meeting	Aa	VBG	adj
+of	aa	IN	prep
+the	aa	DT	no_match
+Association	Aa	NNP	noun
+for	aa	IN	prep
+Computational	Aa	JJ	adj
+Linguistics	Aa	NNS	plural
+(ACL)	AA	NN	no_match
+with	aa	IN	no_match
+the	aa	DT	no_match
+Human	Aa	JJ	no_match
+Language	Aa	NN	no_match
+Technology	Aa	NN	no_match
+Conference	Aa	NN	no_match
+(HLT)	AA	NN	no_match
+of	aa	IN	prep
+the	aa	DT	no_match
+North	Aa	NNP	no_match
+American	Aa	NNP	adj
+Chapter	Aa	NN	noun
+of	aa	IN	prep
+the	aa	DT	no_match
+ACL	AA	NN	no_match
+.	character	.	no_match
+The	Aa	DT	no_match
+conference	aa	NN	no_match
+covers	aa	NNS	plural
+a	No_match	DT	no_match
+broad	aa	JJ	no_match
+spectrum	aa	NN	no_match
+of	aa	IN	prep
+disciplines	aa	NNS	plural
+working	aa	VBG	adj
+towards	aa	IN	plural
+enabling	aa	VBG	adj
+intelligent	aa	JJ	no_match
+systems	aa	NNS	plural
+to	aa	TO	prep
+interact	aa	NN	no_match
+with	aa	IN	no_match
+humans	aa	NNS	plural
+using	aa	VBG	adj
+natural	aa	JJ	adj
+language,	aa	NN	no_match
+and	aa	CC	no_match
+towards	aa	IN	plural
+enhancing	aa	VBG	adj
+human-human	No_match	JJ	no_match
+communication	aa	NN	noun
+through	aa	IN	prep
+services	aa	NNS	plural
+such	aa	JJ	no_match
+as	aa	IN	plural
+speech	aa	NN	no_match
+recognition,	aa	NN	no_match
+automatic	aa	JJ	adj
+translation,	aa	NN	no_match
+information	aa	NN	noun
+retrieval,	aa	NN	adj
+text	aa	NN	no_match
+summarization,	aa	NN	no_match
+and	aa	CC	no_match
+information	aa	NN	noun
+extraction.	aa	NN	no_match
+The	Aa	DT	no_match
+ACL	AA	NN	no_match
+is	aa	VBZ	plural
+proud	aa	NN	no_match
+to	aa	TO	prep
+present	aa	JJ	no_match
+invited	aa	VBN	past
+talks	aa	NNS	plural
+by	aa	IN	prep
+Marc	Aa	NNP	no_match
+Swerts	Aa	NNS	plural
+of	aa	IN	prep
+Tilburg	Aa	NNP	no_match
+University	Aa	NNP	no_match
+and	aa	CC	no_match
+Susan	Aa	NNP	no_match
+Dumais	Aa	NNP	plural
+of	aa	IN	prep
+Microsoft	Aa	NNP	adj
+Research	Aa	NNP	no_match
+.	character	.	no_match
+June	Aa	NNP	no_match
+15,	num	CD	no_match
+2008	num	CD	no_match
+Conference	Aa	NN	no_match
+Tutorials	Aa	NNS	plural
+June	Aa	NNP	no_match
+16-18,	num	CD	no_match
+2008	num	CD	no_match
+Main	Aa	NNP	no_match
+Conference	Aa	NN	no_match
+June	Aa	NNP	no_match
+19-20,	num	CD	no_match
+2008	num	CD	no_match
+Conference	Aa	NN	no_match
+Workshops	Aa	NNS	plural
+Welcome	Aa	VB	no_match
+reception,	aa	NN	no_match
+Sun	Aa	NNP	no_match
+June	Aa	NNP	no_match
+15	num	CD	no_match
+Student	Aa	NN	no_match
+Lunch,	Aa	NN	no_match
+Mon	Aa	NN	no_match
+June	Aa	NNP	no_match
+16	num	CD	no_match
+Banquet,	Aa	NN	no_match
+Tues	Aa	NNS	plural
+June	Aa	NNP	no_match
+17	num	CD	no_match
+Accommodation	Aa	NN	noun
+details	aa	NNS	plural
+and	aa	CC	no_match
+travel	aa	NN	no_match
+information	aa	NN	noun
+ACL-08:	num	NN	no_match
+HLT	AA	NNP	no_match
+Sponsors	Aa	NNS	plural
+We	AA	PRP	no_match
+gratefully	aa	RB	adj
+acknowledge	aa	VB	no_match
+the	aa	DT	no_match
+following	aa	VBG	adj
+institutions	aa	NNS	plural
+for	aa	IN	prep
+their	aa	PRP$	no_match
+generous	aa	JJ	plural
+sponsorship	aa	NN	no_match
+of	aa	IN	prep
+this	aa	DT	plural
+year's	No_match	NNS	plural
+conference:	aa	NN	no_match
+Gold	Aa	NN	no_match
+Level	Aa	NN	no_match
+Silver	Aa	NN	noun
+Level	Aa	NN	no_match
+Bronze	Aa	NN	no_match
+Level	Aa	NN	no_match
+Supporter	Aa	NNP	noun
+Level	Aa	NN	no_match
+Contributor	Aa	NN	no_match
+IBM	AA	NNP	no_match
+Research	Aa	NNP	no_match
+(Best	Aa	IN	no_match
+Student	Aa	NN	no_match
+Paper	Aa	NN	noun
+Award)	Aa	NN	no_match
+Language	Aa	NN	no_match
+Weaver	Aa	NNP	noun
+(Conference	Aa	NN	no_match
+Bag)	Aa	NN	no_match
+University	Aa	NNP	no_match
+of	aa	IN	prep
+Michigan	Aa	NNP	adj
+School	Aa	NNP	no_match
+of	aa	IN	prep
+Information	Aa	NN	noun
+General	Aa	NNP	adj
+Conference	Aa	NN	no_match
+Chair:	Aa	NN	no_match
+Kathleen	Aa	NNP	verb
+McKeown	AaAa	NNP	no_match
+(	character	NN	no_match
+Columbia	Aa	NNP	no_match
+University	Aa	NNP	no_match
+)	character	NN	no_match
+acl08chair@ling.osu.edu	num	NN	no_match
+Program	Aa	NN	no_match
+Co-Chairs:	No_match	NN	no_match
+Johanna	Aa	NNP	no_match
+D.	AA	NNP	no_match
+Moore	Aa	NNP	no_match
+(	character	NN	no_match
+University	Aa	NNP	no_match
+of	aa	IN	prep
+Edinburgh	Aa	NNP	no_match
+)	character	NN	no_match
+J.Moore@ed.ac.uk	No_match	NN	no_match
+Simone	Aa	NNP	no_match
+Teufel	Aa	NNP	no_match
+(	character	NN	no_match
+Cambridge	Aa	NNP	no_match
+University	Aa	NNP	no_match
+)	character	NN	no_match
+sht25@cl.cam.ac.uk	num	NN	no_match
+James	Aa	NNP	plural
+Allan	Aa	NNP	no_match
+(	character	NN	no_match
+University	Aa	NNP	no_match
+of	aa	IN	prep
+Massachusetts	Aa	NNP	plural
+,	character	,	no_match
+Amherst	Aa	NNP	no_match
+)	character	NN	no_match
+allan@cs.umass.edu	No_match	IN	adj
+Sadaoki	Aa	FW	no_match
+Furui	Aa	NNP	no_match
+(	character	NN	no_match
+Tokyo	Aa	NNP	no_match
+Institute	Aa	NNP	no_match
+of	aa	IN	prep
+Technology	Aa	NN	no_match
+,	character	,	no_match
+Japan	Aa	NNP	no_match
+)	character	NN	no_match
+furui@cs.titech.ac.jp	No_match	NN	no_match
+Workshop:	Aa	JJ	no_match
+Ming	Aa	VBG	adj
+Zhou	Aa	NNP	no_match
+(	character	NN	no_match
+Microsoft	Aa	NNP	adj
+Research	Aa	NNP	no_match
+China	Aa	NNP	no_match
+)	character	NN	no_match
+mingzhou@microsoft.com	No_match	NNP	adj
+Tutorials:	Aa	NN	adj
+Ani	Aa	NNS	no_match
+Nenkova	Aa	NN	no_match
+(	character	NN	no_match
+Univ	Aa	NNP	no_match
+of	aa	IN	prep
+Pennsylvania	Aa	NNP	no_match
+,	character	,	no_match
+USA	AA	NNP	no_match
+)	character	NN	no_match
+nenkova@seas.upenn.edu	No_match	NN	no_match
+Marilyn	Aa	NNP	no_match
+Walker	Aa	NNP	noun
+(	character	NN	no_match
+Univ	Aa	NNP	no_match
+of	aa	IN	prep
+Sheffield	Aa	NNP	no_match
+,	character	,	no_match
+UK	AA	NNP	no_match
+)	character	NN	no_match
+m.a.walker@sheffield.ac.uk	No_match	NN	adj
+Eugene	Aa	NNP	no_match
+Agichtein	Aa	NN	adj
+(	character	NN	no_match
+Emory	Aa	NNP	adj
+University	Aa	NNP	no_match
+,	character	,	no_match
+USA	AA	NNP	no_match
+)	character	NN	no_match
+eugene@mathcs.emory.edu	No_match	NN	adj
+Demos:	Aa	NN	no_match
+Jimmy	Aa	NNP	no_match
+Lin	Aa	NNP	no_match
+(	character	NN	no_match
+University	Aa	NNP	no_match
+of	aa	IN	prep
+Maryland	Aa	NNP	adj
+)	character	NN	no_match
+jimmylin@umd.edu	No_match	NN	no_match
+Student	Aa	NN	no_match
+Co-Chairs:	No_match	NN	no_match
+Faculty	Aa	NN	no_match
+rep:	aa	NN	no_match
+Jan	Aa	NNP	no_match
+Wiebe	Aa	NNP	no_match
+(	character	NN	no_match
+University	Aa	NNP	no_match
+of	aa	IN	prep
+Pittsburgh	Aa	NNP	no_match
+)	character	NN	no_match
+wiebe@cs.pitt.edu	No_match	NN	no_match
+Student	Aa	NN	no_match
+NL:	AA	NN	no_match
+Wolfgang	Aa	NNP	no_match
+Maier	Aa	NNP	noun
+(	character	NN	no_match
+U	No_match	NNP	no_match
+of	aa	IN	prep
+Tubingen	Aa	NNP	verb
+,	character	,	no_match
+Germany	Aa	NNP	no_match
+)	character	NN	no_match
+wo.maier@uni-tuebingen.de	No_match	NN	no_match
+Student	Aa	NN	no_match
+Speech:	Aa	NN	no_match
+Ebru	Aa	NNP	no_match
+Arisoy	Aa	NNP	no_match
+(	character	NN	no_match
+Bogazici	Aa	NNP	adj
+University	Aa	NNP	no_match
+,	character	,	no_match
+Turkey	Aa	NNP	no_match
+)	character	NN	no_match
+arisoyeb@boun.edu.tr	No_match	NN	no_match
+Student	Aa	NN	no_match
+IR:	AA	NN	no_match
+Keisuke	Aa	NNP	no_match
+Inoue	Aa	NNP	no_match
+(	character	NN	no_match
+Syracuse	Aa	NNP	no_match
+University	Aa	NNP	no_match
+,	character	,	no_match
+USA	AA	NNP	no_match
+)	character	NN	no_match
+kinoue@syr.edu	No_match	NN	no_match
+Local	Aa	JJ	adj
+Arrangements:	Aa	NN	no_match
+Chris	Aa	NNP	plural
+Brew	Aa	VB	no_match
+cbrew@ling.osu.edu	No_match	NN	no_match
+Donna	Aa	NNP	no_match
+Byron	Aa	NNP	no_match
+dbyron@cse.osu.edu	No_match	NN	no_match
+Eric	Aa	NNP	adj
+Fosler-Lussier	No_match	NNP	noun
+fosler@cse.osu.edu	No_match	NN	no_match
+Detmar	Aa	NNP	no_match
+Meurers	Aa	NNS	plural
+dm@ling.osu.edu	No_match	NN	no_match
+Michael	Aa	NNP	adj
+White	Aa	NNP	no_match
+mwhite@ling.osu.edu	No_match	NN	no_match
+DJ	AA	NNP	no_match
+Hovermale	Aa	NNP	adj
+acl08local@ling.osu.edu	num	NN	adj
+(Webmaster)	Aa	NN	no_match
+back	aa	RB	no_match
+to	aa	TO	prep
+top	aa	NN	no_match
+Copyright	Aa	NN	no_match
+�	character	NN	no_match
+2007	num	CD	no_match
+The	Aa	DT	no_match
+Ohio	Aa	NNP	no_match
+State	Aa	NN	verb
+University	Aa	NNP	no_match
+A	No_match	DT	no_match
+big	aa	JJ	no_match
+welcome	aa	JJ	no_match
+from	aa	IN	prep
+Gary	Aa	NNP	adj
+Sims	Aa	NNS	plural
+This	Aa	DT	plural
+is	aa	VBZ	plural
+Gary	Aa	NNP	adj
+'s	No_match	POS	plural
+homepage	aa	NN	no_match
+and	aa	CC	no_match
+it	aa	PRP	no_match
+is	aa	VBZ	plural
+not	aa	RB	no_match
+exciting	aa	JJ	adj
+in	aa	IN	prep
+anyway	aa	RB	no_match
+whatsoever	aa	RB	noun
+and	aa	CC	no_match
+its	aa	PRP$	plural
+brief!	aa	NN	no_match
+All	Aa	DT	no_match
+the	aa	DT	no_match
+real	aa	RB	adj
+activity	aa	NN	no_match
+happens	aa	VBZ	plural
+over	aa	IN	prep
+on	aa	IN	prep
+my	aa	PRP$	no_match
+blog:	aa	NN	no_match
+Simo's	No_match	NNS	plural
+Sagacity	Aa	NN	no_match
+(The	Aa	NN	no_match
+quality	aa	NN	noun
+of	aa	IN	prep
+keen	aa	JJ	verb
+and	aa	CC	no_match
+farsighted	aa	VBN	past
+penetration	aa	NN	noun
+and	aa	CC	no_match
+judgment).	No_match	NN	no_match
+I	No_match	PRP	no_match
+have	aa	VB	no_match
+a	No_match	DT	no_match
+web	aa	NN	no_match
+directory	aa	NN	adj
+and	aa	CC	no_match
+also	aa	RB	adj
+if	aa	IN	no_match
+you	aa	PRP	no_match
+are	aa	VBP	no_match
+intrested	aa	VBN	past
+I	No_match	PRP	no_match
+have	aa	VB	no_match
+some	aa	DT	adj
+bookmarks	aa	NNS	plural
+and	aa	CC	no_match
+a	No_match	DT	no_match
+page	aa	NN	no_match
+of	aa	IN	prep
+interesting	aa	JJ	adj
+links.	aa	IN	no_match
+You	Aa	PRP	no_match
+can	aa	MD	no_match
+email	aa	NN	no_match
+me	aa	PRP	no_match
+on	aa	IN	prep
+gary	aa	NN	adj
+at	aa	IN	prep
+garysims	aa	NNS	plural
+dot	aa	NN	no_match
+co	aa	NN	no_match
+dot	aa	NN	no_match
+uk	aa	NN	no_match
+or	aa	CC	no_match
+at	aa	IN	prep
+gmail.com	No_match	NNP	no_match
+(see	aa	NN	no_match
+bottom	aa	NN	no_match
+of	aa	IN	prep
+page)	aa	NN	no_match
+You	Aa	PRP	no_match
+can	aa	MD	no_match
+download	aa	NN	no_match
+my	aa	PRP$	no_match
+PGP	AA	NN	no_match
+Public	Aa	NNP	adj
+key	aa	NN	no_match
+from	aa	IN	prep
+here.	aa	RB	no_match
+If	AA	IN	no_match
+I	No_match	PRP	no_match
+have	aa	VB	no_match
+helped	aa	VBN	past
+you	aa	PRP	no_match
+in	aa	IN	prep
+some	aa	DT	adj
+way	aa	NN	no_match
+and	aa	CC	no_match
+you	aa	PRP	no_match
+want	aa	VB	no_match
+to	aa	TO	prep
+show	aa	NN	no_match
+your	aa	PRP$	no_match
+appreciation	aa	NN	noun
+then	aa	RB	verb
+you	aa	PRP	no_match
+can	aa	MD	no_match
+donate	aa	VB	verb
+$5	num	CD	no_match
+to	aa	TO	prep
+me	aa	PRP	no_match
+here.	aa	RB	no_match
+Brevity	Aa	NNP	no_match
+My	AA	PRP$	no_match
+liege,	aa	NN	no_match
+and	aa	CC	no_match
+madam,	aa	NN	no_match
+to	aa	TO	prep
+expostulate	aa	VB	verb
+what	aa	WDT	no_match
+majesty	aa	NN	no_match
+should	aa	MD	no_match
+be,	aa	NN	no_match
+what	aa	WDT	no_match
+duty	aa	NN	no_match
+is,	aa	NN	no_match
+why	aa	WRB	no_match
+day	aa	NN	no_match
+is	aa	VBZ	plural
+day,	aa	NN	no_match
+night	aa	NN	no_match
+night,	aa	IN	no_match
+and	aa	CC	no_match
+time	aa	NN	no_match
+is	aa	VBZ	plural
+time,	aa	IN	no_match
+were	aa	VBD	no_match
+nothing	aa	NN	adj
+but	aa	CC	no_match
+to	aa	TO	prep
+waste	aa	NN	no_match
+night,	aa	IN	no_match
+day	aa	NN	no_match
+and	aa	CC	no_match
+time.	aa	IN	no_match
+Therefore,	Aa	NN	no_match
+since	aa	IN	no_match
+brevity	aa	NN	no_match
+is	aa	VBZ	plural
+the	aa	DT	no_match
+soul	aa	NN	no_match
+of	aa	IN	prep
+wit,	aa	NN	no_match
+and	aa	CC	no_match
+tediousness	aa	NN	plural
+the	aa	DT	no_match
+limbs	aa	NNS	plural
+and	aa	CC	no_match
+outward	aa	JJ	no_match
+flourishes,	aa	NN	adj
+I	No_match	PRP	no_match
+will	aa	MD	no_match
+be	aa	VB	no_match
+brief.	aa	NN	no_match
+Links	Aa	NNP	plural
+Bible	Aa	NNP	adj
+Study	Aa	NN	no_match
+Tool	Aa	NNP	no_match
+Linux	Aa	NN	no_match
+Operating	Aa	NN	adj
+System	Aa	NNP	no_match
+New	Aa	NNP	no_match
+Covenant	Aa	NN	no_match
+Workshop	Aa	NNP	no_match
+Free	Aa	NNP	no_match
+Press	Aa	NNP	plural
+Release	Aa	NNP	no_match
+Service	Aa	NNP	adj
+Gary	Aa	NNP	adj
+'s	No_match	POS	plural
+page	aa	NN	no_match
+over	aa	IN	prep
+at	aa	IN	prep
+GooglePages	AaAa	NNS	plural
 
