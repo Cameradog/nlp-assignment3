@@ -37,8 +37,8 @@ public class FieldService {
 				curField.NER = fields[1];
 			} else if(Constant.CALCULATECORRENTIONRATE){
 				curField.word = fields[0];
-				curField.expectedNER = fields[1];
-				curField.realNER = fields[2];
+				curField.expectedNER = fields[fields.length-2];
+				curField.realNER = fields[fields.length-1];
 			}
 
 		} else if(text.startsWith("#")) {
