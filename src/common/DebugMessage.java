@@ -39,4 +39,8 @@ public class DebugMessage {
 			System.out.println(word +" / " + Prep);
 		}
 	}
+	
+	public static void printCorrectRate(){
+		System.out.println("正確率: " + (double)Constant.CORRECTWORDS / (double)Constant.TOTALWORDS);
+	}
 }
