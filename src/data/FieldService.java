@@ -25,7 +25,7 @@ public class FieldService {
 		// add field
 		Field curField = new Field();
 
-		if (!text.equals("") && !text.startsWith("#")) {
+		if (!text.equals("")) {
 			String[] fields = text.split("\\s+");
 
 			// HARD CODE
@@ -40,10 +40,7 @@ public class FieldService {
 				curField.expectedNER = fields[fields.length-2];
 				curField.realNER = fields[fields.length-1];
 			}
-
-		} else if(text.startsWith("#")) {
-			curField.isstartWithPoundKey = true;
-		} else {
+		}else{
 			curField.isNewLine = true;
 		}
 		Constant.ALLDATAS.add(curField);

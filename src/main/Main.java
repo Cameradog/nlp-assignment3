@@ -63,7 +63,7 @@ public class Main {
 	public void calculateRightRate() {
 		for (int i = 0; i < Constant.ALLDATAS.size(); i++) {
 			Field wordField = Constant.ALLDATAS.get(i);
-			if (!wordField.isNewLine && !wordField.isstartWithPoundKey) {
+			if (!wordField.isNewLine) {
 				Constant.TOTALWORDS++;			
 				FieldService.getServ().calculateRightRate(
 						wordField.expectedNER, wordField.realNER);
@@ -88,9 +88,9 @@ public class Main {
 			// to set count to give nextField/prevField enough information to
 			// work
 			FieldService.getServ().setCurTokenCount(i);
-
+			System.out.println(wordField.word);
 			// FieldService.getServ().getCurTokenCount();
-
+			
 			// prevent new line with all white space
 			if (!wordField.isNewLine) {
 				// Capitalize

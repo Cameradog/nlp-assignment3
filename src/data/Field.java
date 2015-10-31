@@ -14,7 +14,6 @@ public class Field {
 	public String Prep;
 	 	
 	public boolean isNewLine;
-	public boolean isstartWithPoundKey;
 
 	public String expectedNER;
 	public String realNER; 
