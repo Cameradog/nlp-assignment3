@@ -25,7 +25,7 @@ public class FieldService {
 		// add field
 		Field curField = new Field();
 
-		if (!text.equals("")) {
+		if (!text.equals("") && !text.startsWith("#")) {
 			String[] fields = text.split("\\s+");
 
 			// HARD CODE
@@ -35,8 +35,14 @@ public class FieldService {
 			} else if (fields.length == 2) {
 				curField.word = fields[0];
 				curField.NER = fields[1];
+			} else if(Constant.CALCULATECORRENTIONRATE){
+				curField.word = fields[0];
+				curField.expectedNER = fields[1];
+				curField.realNER = fields[2];
 			}
 
+		} else if(text.startsWith("#")) {
+			curField.isstartWithPoundKey = true;
 		} else {
 			curField.isNewLine = true;
 		}
@@ -59,6 +65,12 @@ public class FieldService {
 			return Constant.ALLDATAS.get(curTokenCount + 1);
 		} else {
 			throw new Exception("OverFlow occur");
+		}
+	}
+	
+	public void calculateRightRate(String expectedNER, String realNER){
+		if(expectedNER.equals(realNER)){
+			Constant.CORRECTWORDS +=1;
 		}
 	}
 

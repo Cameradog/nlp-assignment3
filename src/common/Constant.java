@@ -14,4 +14,7 @@ public class Constant {
 	
 	//FOR THE LINE WHICH CONTAINS ALL WHITESPACE
 	public static boolean OUTPUTNEWLINE = true;
+	public static boolean CALCULATECORRENTIONRATE=false;
+	public static int TOTALWORDS =0;
+	public static int CORRECTWORDS =0;
 }
